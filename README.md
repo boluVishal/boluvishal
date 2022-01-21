@@ -1,8 +1,11 @@
 ### About Me 👋
+Hi All ,I am Bolu Vishal
 
 Currently Pursuing a Post-Graduate Diploma in Statistical Methods and Analytics at ISI Chennai. The programme is intended to provide comprehensive training in basic theory and applications of Statistical Methods and Analytics
 
-3+ years of experience in analysis, design, development of various J2EE, Spring & Python applications. Worked on projects in agile methodology having rich experience in Financial Domain & Supply Chain (Analytics). Apart from technical skills I also have experience in working with multiple vendors and geographically distributed teams.
+I have 3+ years of experience in analysis, design, development of various J2EE, Spring & Python applications. Worked on projects in agile methodology having rich experience in Financial Domain & Supply Chain (Analytics). Apart from technical skills I also have experience in working with multiple vendors and geographically distributed teams.
+
+I have previously worked as a software engineer at Asian paints and Infosys.
 
 
 <!--
