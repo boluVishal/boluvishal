@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me 👋
+
+Currently Pursuing a Post-Graduate Diploma in Statistical Methods and Analytics at ISI Chennai. The programme is intended to provide comprehensive training in basic theory and applications of Statistical Methods and Analytics
+
+3+ years of experience in analysis, design, development of various J2EE, Spring & Python applications. Worked on projects in agile methodology having rich experience in Financial Domain & Supply Chain (Analytics). Apart from technical skills I also have experience in working with multiple vendors and geographically distributed teams.
+
 
 <!--
 **boluVishal/boluvishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
