@@ -1,11 +1,13 @@
 ### About Me 👋
 Hi All ,I am Bolu Vishal
 
-Currently Pursuing a Post-Graduate Diploma in Statistical Methods and Analytics at ISI Chennai. The programme is intended to provide comprehensive training in basic theory and applications of Statistical Methods and Analytics
+Hello, I'm Bolu Vishal and I'm passionate about using data to solve business problems. 
 
-I have 3+ years of experience in analysis, design, development of various J2EE, Spring & Python applications. Worked on projects in agile methodology having rich experience in Financial Domain & Supply Chain (Analytics). Apart from technical skills I also have experience in working with multiple vendors and geographically distributed teams.
+With over 4+ years of experience in software development and machine learning, I have a strong background in both technology and business.
 
-I have previously worked as a software engineer at Asian paints and Infosys.
+I've worked with various organizations across different domains, including fintech, supply chain analytics, marketing, and media, and currently working as a data analyst at SonyLiv. 
+
+I'm always eager to learn and grow, and I enjoy staying up-to-date with the latest advancements in my field. In addition to analytics, I also have a keen interest in competitive coding and problem-solving. 
 
 
 <!--
