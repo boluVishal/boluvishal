@@ -1,6 +1,4 @@
 ### About Me 👋
-Hi All ,I am Bolu Vishal
-
 Hello, I'm Bolu Vishal and I'm passionate about using data to solve business problems. 
 
 With over 4+ years of experience in software development and machine learning, I have a strong background in both technology and business.
