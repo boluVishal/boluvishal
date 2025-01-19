@@ -1,7 +1,7 @@
 ### About Me 👋
 Hello, I'm Bolu Vishal and I'm passionate about using data to solve business problems. 
 
-With over 4+ years of experience in software development and machine learning, I have a strong background in both technology and business.
+With over 6+ years of experience in software development and machine learning, I have a strong background in both technology and business.
 
 I've worked with various organizations across different domains, including fintech, supply chain analytics, marketing, and media, and currently working as a data analyst at SonyLiv. 
 
