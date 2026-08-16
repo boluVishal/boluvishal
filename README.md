@@ -1,24 +1,9 @@
 ### About Me 👋
-Hello, I'm Bolu Vishal and I'm passionate about using data to solve business problems. 
 
-With over 6+ years of experience in software development and machine learning, I have a strong background in both technology and business.
+Hello, I'm Bolu Vishal. I'm passionate about using data to solve business and product problems.
 
-I've worked with various organizations across different domains, including fintech, supply chain analytics, marketing, and media, and currently working as a data analyst at SonyLiv. 
+I have 8+ years of experience across software development, analytics, and data science, with a background spanning technology and business.
 
-I'm always eager to learn and grow, and I enjoy staying up-to-date with the latest advancements in my field. In addition to analytics, I also have a keen interest in competitive coding and problem-solving. 
+I've worked across fintech, supply chain analytics, marketing, and media, and I currently work as a Data Scientist II at Spotify.
 
-
-<!--
-**boluVishal/boluvishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always looking to learn and grow, with a particular interest in machine learning, experimentation, product analytics, and GenAI. I also enjoy problem-solving and exploring new technologies.
