@@ -1,24 +1,21 @@
-### About Me 👋
-Hello, I'm Bolu Vishal and I'm passionate about using data to solve business problems. 
+# Hi, I'm Bolu Vishal
 
-With over 6+ years of experience in software development and machine learning, I have a strong background in both technology and business.
+I am currently a Data Scientist II at Spotify, where I work on data and machine-learning problems at scale. My background spans software development and analytics across fintech, supply chain, marketing, and media.
 
-I've worked with various organizations across different domains, including fintech, supply chain analytics, marketing, and media, and currently working as a data analyst at SonyLiv. 
+Right now, I am exploring large language models and generative AI, with a particular interest in moving beyond demos to build reliable, useful systems around them. I still enjoy solving a good programming problem along the way.
 
-I'm always eager to learn and grow, and I enjoy staying up-to-date with the latest advancements in my field. In addition to analytics, I also have a keen interest in competitive coding and problem-solving. 
+Most of the repositories here are working notes: competition entries, OCR experiments, chatbots, and small Java projects built while learning a framework. I keep the write-ups honest about what is finished, what is old, and what was mainly an experiment.
 
+## A few projects worth opening
 
-<!--
-**boluVishal/boluvishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [PAN Card OCR](https://github.com/boluVishal/PAN-Card-OCR) - extracts names, date of birth, and PAN numbers from card images with Tesseract and OpenCV.
+- [Bojack's Restaurant Challenge](https://github.com/boluVishal/HackerEarth-Machine-Learning-Challenge-Calculate-the-total-earnings-of-Bojack-s-restaurant) - OCR pipeline for finding the final amount on restaurant bills.
+- [Loan Repayment Prediction](https://github.com/boluVishal/Loan-Prediction) - classification work on historical LendingClub data.
+- [FAQ Bot](https://github.com/boluVishal/FAQ-Bot) - a legacy Rasa NLU/Core FAQ bot with a separate browser UI.
+- [Flight Booking](https://github.com/boluVishal/Flight_Booking) - a small Spring Boot and JPA registration service.
 
-Here are some ideas to get you started:
+## Tools I reach for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, SQL, pandas, scikit-learn, Jupyter, Java, Spring Boot, and the usual data-visualisation stack. I am currently adding LLM application development, evaluation, and generative AI workflows to that toolkit.
+
+I am especially interested in projects where the hard part is not the model itself, but turning imperfect source data into something reliable enough to use.
