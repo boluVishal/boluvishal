@@ -1,24 +1,54 @@
-### About Me 👋
-Hello, I'm Bolu Vishal and I'm passionate about using data to solve business problems. 
+# Hi, I'm Vishal 👋
 
-With over 6+ years of experience in software development and machine learning, I have a strong background in both technology and business.
+**Data Scientist II | Product Analytics | Machine Learning | GenAI**
 
-I've worked with various organizations across different domains, including fintech, supply chain analytics, marketing, and media, and currently working as a data analyst at SonyLiv. 
+I work at the intersection of **data science, product thinking, experimentation, and AI** — using data to understand user behaviour, measure product impact, build predictive models, and turn ambiguous business questions into clear decisions.
 
-I'm always eager to learn and grow, and I enjoy staying up-to-date with the latest advancements in my field. In addition to analytics, I also have a keen interest in competitive coding and problem-solving. 
+My background spans **product analytics, growth & retention, machine learning, experimentation, recommendation systems, forecasting, and applied GenAI** across media, consumer technology, fintech, and analytics-driven products.
 
+## What I work on
 
-<!--
-**boluVishal/boluvishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 **Product & Growth Data Science** — funnels, retention, cohorts, subscriptions, user behaviour, and product metrics
+- 🧪 **Experimentation & Causal Thinking** — A/B testing, hypothesis testing, measurement, and decision frameworks
+- 🤖 **Machine Learning** — classification, regression, recommendation systems, segmentation, forecasting, and NLP
+- 🧠 **GenAI & Agents** — RAG, LLM applications, tool-using agents, evaluation, and workflow automation
+- 🏗️ **Production ML / AI Engineering** — learning how to move models from notebooks into APIs, containers, CI/CD, and cloud infrastructure
 
-Here are some ideas to get you started:
+## Tech I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Data**  
+Python · SQL · Pandas · NumPy · PySpark
+
+**Machine Learning**  
+scikit-learn · PyTorch · TensorFlow/Keras · XGBoost · Hugging Face
+
+**Analytics & Experimentation**  
+A/B Testing · Statistics · Causal Inference · Forecasting · Recommendation Systems · Product Analytics
+
+**GenAI**  
+LLMs · RAG · LangChain · Agentic Workflows · Vector Search · LLM Evaluation
+
+**Engineering & Tools**  
+Git · GitHub · Docker · FastAPI · Streamlit · BigQuery · Looker
+
+## What I'm building now
+
+I'm currently deepening my skills in **GenAI, AI engineering, MLOps, and production system design** — with a focus on building complete projects that go beyond notebooks and include APIs, testing, containers, deployment, monitoring, and documentation.
+
+## Featured work
+
+I'm actively cleaning up and rebuilding this GitHub so that the repositories here reflect my current work and learning. The goal is to showcase a smaller number of well-documented, reproducible projects across:
+
+- End-to-end machine learning
+- Product data science & experimentation
+- GenAI / RAG / agents
+- MLOps & production ML
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/boluvishal/)
+- [GitHub](https://github.com/boluVishal)
+
+---
+
+> I prefer building projects that explain not only **what the model does**, but also **why the problem matters, how the system works, how it is evaluated, and how it could run in production**.
